@@ -1,7 +1,7 @@
 
-# Name, Purpose, and GitHub Stars for causal-inference-related packages as of 9/28/20. 
+# Causal inference-related packages 
 
-## Please submit a pull request with any additions. 
+### Please submit a pull request with any additions! 😀
 ---
 
 - [DoWhy](https://github.com/Microsoft/dowhy) - making causal inference easy (Microsoft) ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/dowhy?style=social)  
@@ -22,4 +22,4 @@
 - [Awesome Causalit](https://github.com/napsternxg/awesome-causality#tools)
 - [Awesome Open Source](https://awesomeopensource.com/projects/causal-inference)
 - [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) by Brady Neal
-- An Hoang suggestion to use [Shields.io](https://shields.io/)
+- An Hoang for the suggestion to use [Shields.io](https://shields.io/)
