@@ -5,7 +5,7 @@
 ---
 
 - [DoWhy](https://github.com/Microsoft/dowhy) - making causal inference easy (Microsoft) ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/dowhy?style=social)  
-- [CausalML](https://github.com/uber/causalml) - suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research (Uber)![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/dowhy?style=plastic)
+- [CausalML](https://github.com/uber/causalml) - suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research (Uber) ![GitHub Repo stars](https://img.shields.io/github/stars/uber/causalml?style=social)
 - [causal impact](https://github.com/dafiti/causalimpact) - implementation of Google's model with all functionalities fully ported and tested - 312
 - [cfrnet](https://github.com/clinicalml/cfrnet) - counterfactual regression (doesn't appear to be actively developed) - 135 
 - [Causality](https://github.com/akelleh/causality) - tools for causal analysis using observational (rather than experimental) datasets (doesn't appear to be actively developed) - 804 
