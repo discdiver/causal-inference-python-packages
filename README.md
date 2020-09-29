@@ -1,8 +1,10 @@
 
-Name, Purpose, and GitHub Stars for causal-inference-related packages as of 9/28/20. Please submit a pull request with any additions. 
+# Name, Purpose, and GitHub Stars for causal-inference-related packages as of 9/28/20. 
+
+# Please submit a pull request with any additions. 
 ---
 
-- [DoWhy](https://github.com/Microsoft/dowhy) - making causal inference easy (Microsoft) - 2,258  
+- [DoWhy](https://github.com/Microsoft/dowhy) - making causal inference easy (Microsoft) - ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/dowhy?style=social)  
 - [CausalML](https://github.com/uber/causalml) - suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research (Uber) - 1,322
 - [causal impact](https://github.com/dafiti/causalimpact) - implementation of Google's model with all functionalities fully ported and tested - 312
 - [cfrnet](https://github.com/clinicalml/cfrnet) - counterfactual regression (doesn't appear to be actively developed) - 135 
